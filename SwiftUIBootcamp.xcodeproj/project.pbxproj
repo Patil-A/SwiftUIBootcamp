@@ -11,6 +11,7 @@
 		522CB5652C196F3200B5DF54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522CB5642C196F3200B5DF54 /* ContentView.swift */; };
 		522CB5672C196F3400B5DF54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522CB5662C196F3400B5DF54 /* Assets.xcassets */; };
 		522CB56B2C196F3400B5DF54 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522CB56A2C196F3400B5DF54 /* Preview Assets.xcassets */; };
+		522CB5742C19725900B5DF54 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522CB5732C19725900B5DF54 /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		522CB5662C196F3400B5DF54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		522CB5682C196F3400B5DF54 /* SwiftUIBootcamp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUIBootcamp.entitlements; sourceTree = "<group>"; };
 		522CB56A2C196F3400B5DF54 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		522CB5732C19725900B5DF54 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				522CB5622C196F3200B5DF54 /* SwiftUIBootcampApp.swift */,
 				522CB5642C196F3200B5DF54 /* ContentView.swift */,
+				522CB5732C19725900B5DF54 /* TextBootcamp.swift */,
 				522CB5662C196F3400B5DF54 /* Assets.xcassets */,
 				522CB5682C196F3400B5DF54 /* SwiftUIBootcamp.entitlements */,
 				522CB5692C196F3400B5DF54 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				522CB5652C196F3200B5DF54 /* ContentView.swift in Sources */,
+				522CB5742C19725900B5DF54 /* TextBootcamp.swift in Sources */,
 				522CB5632C196F3200B5DF54 /* SwiftUIBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
